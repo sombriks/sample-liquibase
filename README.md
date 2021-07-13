@@ -54,7 +54,7 @@ New file created:
 src/main/resources/db/changelogs/2021-07-13-20-41-52_add-pet-color.sql
 ```
 
-Once the file is edited, **build the project** and then maven targets can help to apply the migration.
+Once the file is edited, **build the project** and then maven liquibase goals can help to apply the migration.
 
 ## Reference Documentation
 
