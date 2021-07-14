@@ -15,4 +15,6 @@ public class Pet {
     private Long id;
     @Getter @Setter
     private String name;
+    @Getter @Setter
+    private String color;
 }
